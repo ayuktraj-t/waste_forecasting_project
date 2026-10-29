@@ -1,0 +1,1466 @@
+[
+ {
+  "stops": [
+   "W071"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W071"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W071"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W063"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W063"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W063"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W070"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W070"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W005"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W005"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W005"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3964.0
+ },
+ {
+  "stops": [
+   "W095"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W095"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W011",
+   "W071"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4198.0
+ },
+ {
+  "stops": [
+   "W041",
+   "W063"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4161.0
+ },
+ {
+  "stops": [
+   "W081",
+   "W070"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4206.0
+ },
+ {
+  "stops": [
+   "W053",
+   "W095"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4207.0
+ },
+ {
+  "stops": [
+   "W085"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W085"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3948.0
+ },
+ {
+  "stops": [
+   "W007"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W093"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W093"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3249.0
+ },
+ {
+  "stops": [
+   "W064"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W064"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 3070.0
+ },
+ {
+  "stops": [
+   "W081"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W036"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W036"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3902.0
+ },
+ {
+  "stops": [
+   "W041"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W056"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W073"
+  ],
+  "distance_km": 29.78,
+  "time_min": 124.3,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W073"
+  ],
+  "distance_km": 29.78,
+  "time_min": 124.3,
+  "load_kg": 2455.0
+ },
+ {
+  "stops": [
+   "W004"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W004"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2371.0
+ },
+ {
+  "stops": [
+   "W079",
+   "W056"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4214.0
+ },
+ {
+  "stops": [
+   "W060"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W060"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3371.0
+ },
+ {
+  "stops": [
+   "W079"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W079"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W027"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W040"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W040"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2406.0
+ },
+ {
+  "stops": [
+   "W053"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W098"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W098"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3811.0
+ },
+ {
+  "stops": [
+   "W021"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W021"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 3727.0
+ },
+ {
+  "stops": [
+   "W034"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W057"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W057"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 3203.0
+ },
+ {
+  "stops": [
+   "W045"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W045"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4170.0
+ },
+ {
+  "stops": [
+   "W046"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W007",
+   "W016"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4207.0
+ },
+ {
+  "stops": [
+   "W091",
+   "W046"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4205.0
+ },
+ {
+  "stops": [
+   "W044"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W097"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W097"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 3664.0
+ },
+ {
+  "stops": [
+   "W100"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W080"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W080"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2825.0
+ },
+ {
+  "stops": [
+   "W090"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W090"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3349.0
+ },
+ {
+  "stops": [
+   "W022"
+  ],
+  "distance_km": 33.55,
+  "time_min": 135.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W003"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W083"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W083"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 2951.0
+ },
+ {
+  "stops": [
+   "W058"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W058"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2388.0
+ },
+ {
+  "stops": [
+   "W052"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W052"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3282.0
+ },
+ {
+  "stops": [
+   "W067"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W027",
+   "W012"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W002"
+  ],
+  "distance_km": 25.73,
+  "time_min": 112.2,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W100",
+   "W023"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4199.0
+ },
+ {
+  "stops": [
+   "W082"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W082"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2587.0
+ },
+ {
+  "stops": [
+   "W087"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W087"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3838.0
+ },
+ {
+  "stops": [
+   "W091"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W055"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W055"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 3593.0
+ },
+ {
+  "stops": [
+   "W018"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W018"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3782.0
+ },
+ {
+  "stops": [
+   "W030"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W030"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3169.0
+ },
+ {
+  "stops": [
+   "W001"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W099"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W067",
+   "W028"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4214.0
+ },
+ {
+  "stops": [
+   "W033"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W033"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 3514.0
+ },
+ {
+  "stops": [
+   "W023"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W026"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W026"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3679.0
+ },
+ {
+  "stops": [
+   "W089"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W089"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3545.0
+ },
+ {
+  "stops": [
+   "W068"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W034",
+   "W032"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4219.0
+ },
+ {
+  "stops": [
+   "W092"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W092"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2673.0
+ },
+ {
+  "stops": [
+   "W074"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W074"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2576.0
+ },
+ {
+  "stops": [
+   "W037",
+   "W022"
+  ],
+  "distance_km": 61.17,
+  "time_min": 238.5,
+  "load_kg": 4219.0
+ },
+ {
+  "stops": [
+   "W054"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W054"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 1856.0
+ },
+ {
+  "stops": [
+   "W008"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W008"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2566.0
+ },
+ {
+  "stops": [
+   "W028"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W066",
+   "W003"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4208.0
+ },
+ {
+  "stops": [
+   "W094"
+  ],
+  "distance_km": 25.73,
+  "time_min": 112.2,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W094"
+  ],
+  "distance_km": 25.73,
+  "time_min": 112.2,
+  "load_kg": 2831.0
+ },
+ {
+  "stops": [
+   "W051",
+   "W044"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4092.0
+ },
+ {
+  "stops": [
+   "W069"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W011"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W099",
+   "W043"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4155.0
+ },
+ {
+  "stops": [
+   "W065"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W065"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 2957.0
+ },
+ {
+  "stops": [
+   "W059"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W010",
+   "W002"
+  ],
+  "distance_km": 29.92,
+  "time_min": 144.7,
+  "load_kg": 4196.0
+ },
+ {
+  "stops": [
+   "W077"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W077"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3696.0
+ },
+ {
+  "stops": [
+   "W037"
+  ],
+  "distance_km": 29.78,
+  "time_min": 124.3,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W038"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W038"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3641.0
+ },
+ {
+  "stops": [
+   "W059",
+   "W039"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 3937.0
+ },
+ {
+  "stops": [
+   "W048"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W048"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2910.0
+ },
+ {
+  "stops": [
+   "W084"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W084"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3132.0
+ },
+ {
+  "stops": [
+   "W066"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W039"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W012"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W024"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W024"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2992.0
+ },
+ {
+  "stops": [
+   "W042"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W069",
+   "W015"
+  ],
+  "distance_km": 38.72,
+  "time_min": 171.2,
+  "load_kg": 4219.0
+ },
+ {
+  "stops": [
+   "W049"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W049"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3500.0
+ },
+ {
+  "stops": [
+   "W043"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W029"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W029"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3310.0
+ },
+ {
+  "stops": [
+   "W014"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W014"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 3574.0
+ },
+ {
+  "stops": [
+   "W006"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W006"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2723.0
+ },
+ {
+  "stops": [
+   "W032"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W078"
+  ],
+  "distance_km": 33.55,
+  "time_min": 135.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W042",
+   "W088"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4158.0
+ },
+ {
+  "stops": [
+   "W051"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W010"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W072"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W020",
+   "W068"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4200.0
+ },
+ {
+  "stops": [
+   "W076",
+   "W078"
+  ],
+  "distance_km": 38.72,
+  "time_min": 171.2,
+  "load_kg": 4183.0
+ },
+ {
+  "stops": [
+   "W075"
+  ],
+  "distance_km": 29.78,
+  "time_min": 124.3,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W075"
+  ],
+  "distance_km": 29.78,
+  "time_min": 124.3,
+  "load_kg": 3275.0
+ },
+ {
+  "stops": [
+   "W088"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W017"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W015"
+  ],
+  "distance_km": 33.55,
+  "time_min": 135.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W017",
+   "W025"
+  ],
+  "distance_km": 26.52,
+  "time_min": 134.5,
+  "load_kg": 4179.0
+ },
+ {
+  "stops": [
+   "W025"
+  ],
+  "distance_km": 22.13,
+  "time_min": 101.4,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W076"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W009"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W009"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2727.0
+ },
+ {
+  "stops": [
+   "W001",
+   "W086"
+  ],
+  "distance_km": 5.19,
+  "time_min": 70.6,
+  "load_kg": 4212.0
+ },
+ {
+  "stops": [
+   "W062"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W062"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3411.0
+ },
+ {
+  "stops": [
+   "W016"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W061"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W061"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3140.0
+ },
+ {
+  "stops": [
+   "W047"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W047"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2798.0
+ },
+ {
+  "stops": [
+   "W031"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W031"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 2767.0
+ },
+ {
+  "stops": [
+   "W013"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W013"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3016.0
+ },
+ {
+  "stops": [
+   "W072",
+   "W019"
+  ],
+  "distance_km": 29.92,
+  "time_min": 144.7,
+  "load_kg": 4210.0
+ },
+ {
+  "stops": [
+   "W020"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W050"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W050"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 3009.0
+ },
+ {
+  "stops": [
+   "W086"
+  ],
+  "distance_km": 5.19,
+  "time_min": 50.6,
+  "load_kg": 4220.0
+ },
+ {
+  "stops": [
+   "W019"
+  ],
+  "distance_km": 25.73,
+  "time_min": 112.2,
+  "load_kg": 4220.0
+ }
+]

@@ -1,0 +1,13 @@
+Model,Features,MAE,RMSE,MAPE,R2,skill_vs_weekly_naive_pct
+Naive: yesterday,none,1005.414,1431.663,14.537,-0.322,-17.2
+Naive: same weekday last week,none,857.568,1233.212,12.6,0.019,0.0
+Naive: ward 28-day average,none,755.744,1017.28,11.318,0.333,11.9
+Linear Regression,Historical-only,693.568,967.269,10.458,0.397,19.1
+Decision Tree,Historical-only,671.422,964.338,10.102,0.4,21.7
+Random Forest,Historical-only,660.193,944.684,9.938,0.424,23.0
+XGBoost,Historical-only,644.075,931.143,9.742,0.441,24.9
+Linear Regression,Context-aware,600.185,861.589,9.03,0.521,30.0
+Decision Tree,Context-aware,546.606,813.768,8.281,0.573,36.3
+Random Forest,Context-aware,509.706,778.902,7.75,0.609,40.6
+XGBoost,Context-aware,525.073,791.684,8.014,0.596,38.8
+LSTM,Context-aware,517.687,781.205,7.879,0.606,39.6

@@ -1,0 +1,6 @@
+input,value,note
+depot_lat,27.188,approximate placeholder
+depot_lon,78.015,approximate placeholder
+trucks_per_day,82.0,mean of daily availability; fleet = 93 secondary vehicles
+truck_capacity_kg,4220.0,fleet mean; range 2020-9450 kg
+zone_storage_days,1.9,median across wards; range 1.4-3.2

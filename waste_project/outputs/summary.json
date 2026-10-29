@@ -1,0 +1,94 @@
+{
+  "conformal_interval_pct": 14.4,
+  "interval_coverage_pct": 91.3,
+  "mean_bias_pct": 0.19,
+  "torch_available": true,
+  "train_rows": 85400,
+  "test_rows": 21400,
+  "wards": 100,
+  "test_start": "2025-06-01",
+  "test_end": "2025-12-31",
+  "city_mape_pct": 3.73,
+  "city_mape_weekly_naive_pct": 7.16,
+  "weekly_naive_MAE": 857.6,
+  "best_context_model": "Random Forest",
+  "best_context_MAE": 509.7,
+  "planning": {
+    "daily": {
+      "total_distance_km": 404274.0,
+      "total_truck_hours": 45784.0,
+      "total_trips": 40028,
+      "overflow_ward_days": 0,
+      "overflow_tonnes": 0.0,
+      "collected_tonnes": 159570.0,
+      "unserved_trips": 0,
+      "mean_trucks_needed": 27.3,
+      "peak_trucks_needed": 32,
+      "days_over_fleet": 0
+    },
+    "alternate": {
+      "total_distance_km": 375743.0,
+      "total_truck_hours": 42647.0,
+      "total_trips": 37902,
+      "overflow_ward_days": 7924,
+      "overflow_tonnes": 10758.0,
+      "collected_tonnes": 158844.0,
+      "unserved_trips": 4,
+      "mean_trucks_needed": 25.2,
+      "peak_trucks_needed": 58,
+      "days_over_fleet": 0
+    },
+    "forecast": {
+      "total_distance_km": 400199.0,
+      "total_truck_hours": 45345.0,
+      "total_trips": 39812,
+      "overflow_ward_days": 0,
+      "overflow_tonnes": 0.0,
+      "collected_tonnes": 158837.0,
+      "unserved_trips": 0,
+      "mean_trucks_needed": 27.0,
+      "peak_trucks_needed": 41,
+      "days_over_fleet": 0
+    },
+    "naive": {
+      "total_distance_km": 396842.0,
+      "total_truck_hours": 44975.0,
+      "total_trips": 39781,
+      "overflow_ward_days": 608,
+      "overflow_tonnes": 360.0,
+      "collected_tonnes": 158860.0,
+      "unserved_trips": 0,
+      "mean_trucks_needed": 26.8,
+      "peak_trucks_needed": 48,
+      "days_over_fleet": 0
+    },
+    "oracle": {
+      "total_distance_km": 399878.0,
+      "total_truck_hours": 45278.0,
+      "total_trips": 39751,
+      "overflow_ward_days": 0,
+      "overflow_tonnes": 0.0,
+      "collected_tonnes": 158830.0,
+      "unserved_trips": 0,
+      "mean_trucks_needed": 26.9,
+      "peak_trucks_needed": 38,
+      "days_over_fleet": 0
+    }
+  },
+  "planning_inputs": {
+    "depot": [
+      27.188,
+      78.015
+    ],
+    "trucks": 82,
+    "capacity_kg": 4220.0,
+    "storage_days": 1.9,
+    "risk_threshold": 0.9,
+    "shift_hours": 8.0,
+    "speed_kmh": 20.0,
+    "stop_min": 20.0,
+    "unload_min": 15.0,
+    "road_factor": 1.3,
+    "dump_extra_km": 0.0
+  }
+}
